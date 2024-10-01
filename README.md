@@ -4,4 +4,6 @@ My own implementation of slightly different roulette in Java.
 
 
 
-<b align="center">Changelog:</b>
+## Changelog:
+
+**V1.0.0** (_Alpha_) = Main and first version.
